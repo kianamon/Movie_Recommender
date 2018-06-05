@@ -1,0 +1,431 @@
+"Title","URL","Score","Duration","Genres1","Genres2","Genres3","Genres4","Directors","Num_Votes","Year","Likability"
+"The Notebook","https://www.imdb.com/title/tt0332280/",7.9,123,"Drama","Romance","Drama","Drama","Nick Cassavetes",445357,2004,80
+"Twilight","https://www.imdb.com/title/tt1099212/",5.2,122,"Drama","Fantasy","Romance","Drama","Catherine Hardwicke",374642,2008,50
+"Titanic","https://www.imdb.com/title/tt0120338/",7.8,194,"Drama","Romance","Drama","Drama","James Cameron",891772,1997,80
+"Eternal Sunshine of the Spotless Mind","https://www.imdb.com/title/tt0338013/",8.3,108,"Drama","Romance","Sci-Fi","Drama","Michel Gondry",769811,2004,70
+"Midnight in Paris","https://www.imdb.com/title/tt1605783/",7.7,94,"Comedy","Fantasy","Romance","Comedy","Woody Allen",338823,2011,90
+"Pride & Prejudice","https://www.imdb.com/title/tt0414387/",7.8,129,"Drama","Romance","Drama","Drama","Joe Wright",216769,2005,90
+"The Shawshank Redemption","https://www.imdb.com/title/tt0111161/",9.3,142,"Crime","Drama","Drama","Crime","Frank Darabont",1947227,1994,90
+"The Dark Knight","https://www.imdb.com/title/tt0468569/",9,152,"Action","Crime","Drama","Thriller","Christopher Nolan",1919216,2008,70
+"The Lord of the Rings: The Return of the King","https://www.imdb.com/title/tt0167260/",8.9,201,"Adventure","Drama","Fantasy","Action","Peter Jackson",1390548,2003,60
+"The Lord of the Rings: The Fellowship of the Ring","https://www.imdb.com/title/tt0120737/",8.8,178,"Adventure","Drama","Fantasy","Adventure","Peter Jackson",1408603,2001,60
+"Inception","https://www.imdb.com/title/tt1375666/",8.8,148,"Action","Adventure","Sci-Fi","Thriller","Christopher Nolan",1704782,2010,70
+"The Lord of the Rings: The Two Towers","https://www.imdb.com/title/tt0167261/",8.7,179,"Adventure","Drama","Fantasy","Adventure","Peter Jackson",1257992,2002,60
+"Se7en","https://www.imdb.com/title/tt0114369/",8.6,127,"Crime","Drama","Mystery","Thriller","David Fincher",1188872,1995,100
+"The Silence of the Lambs","https://www.imdb.com/title/tt0102926/",8.6,118,"Crime","Drama","Thriller","Action","Jonathan Demme",1041412,1991,100
+"La vita è bella","https://www.imdb.com/title/tt0118799/",8.6,116,"Comedy","Drama","War","Adventure","Roberto Benigni",505880,1997,100
+"WALL·E","https://www.imdb.com/title/tt0910970/",8.4,98,"Animation","Adventure","Family","Sci-Fi","Andrew Stanton",841014,2008,80
+"Gladiator","https://www.imdb.com/title/tt0172495/",8.5,155,"Action","Adventure","Drama","Crime","Ridley Scott",1128444,2000,90
+"The Green Mile","https://www.imdb.com/title/tt0120689/",8.5,189,"Crime","Drama","Fantasy","Mystery","Frank Darabont",927847,1999,90
+"Requiem for a Dream","https://www.imdb.com/title/tt0180093/",8.3,102,"Drama","Drama","Comedy","Crime","Darren Aronofsky",659043,2000,60
+"Braveheart","https://www.imdb.com/title/tt0112573/",8.4,178,"Biography","Drama","History","War","Mel Gibson",842161,1995,80
+"Toy Story","https://www.imdb.com/title/tt0114709/",8.3,81,"Animation","Adventure","Comedy","Family","John Lasseter",731255,1995,80
+"Up","https://www.imdb.com/title/tt1049413/",8.3,96,"Animation","Adventure","Comedy","Family","Pete Docter, Bob Peterson",782001,2009,70
+"Gone with the Wind","https://www.imdb.com/title/tt0031381/",8.2,238,"Drama","History","Romance","War","Sam Wood, George Cukor, Victor Fleming",248557,1939,90
+"The Thing","https://www.imdb.com/title/tt0084787/",8.1,109,"Horror","Mystery","Sci-Fi","Comedy","John Carpenter",306150,1982,60
+"V for Vendetta","https://www.imdb.com/title/tt0434409/",8.2,132,"Action","Drama","Sci-Fi","Thriller","James McTeigue",901619,2005,100
+"Mary and Max","https://www.imdb.com/title/tt0978762/",8.1,92,"Animation","Comedy","Drama","Animation","Adam Elliot",141652,2009,60
+"The King's Speech","https://www.imdb.com/title/tt1504320/",8,118,"Biography","Comedy","Drama","Family","Tom Hooper",562637,2010,80
+"Finding Nemo","https://www.imdb.com/title/tt0266543/",8.1,100,"Animation","Adventure","Comedy","Family","Andrew Stanton, Lee Unkrich",808602,2003,80
+"Black Swan","https://www.imdb.com/title/tt0947798/",8,108,"Drama","Thriller","Drama","Action","Darren Aronofsky",613330,2010,80
+"Stalker","https://www.imdb.com/title/tt0079944/",8.1,162,"Drama","Sci-Fi","Crime","Crime","Andrei Tarkovsky",88167,1979,40
+"Slumdog Millionaire","https://www.imdb.com/title/tt1010048/",8,120,"Drama","Romance","Action","Drama","Loveleen Tandan, Danny Boyle",710819,2008,80
+"A Beautiful Mind","https://www.imdb.com/title/tt0268978/",8.2,135,"Biography","Drama","Adventure","Biography","Ron Howard",717179,2001,80
+"Roman Holiday","https://www.imdb.com/title/tt0046250/",8.1,118,"Comedy","Romance","Adventure","Animation","William Wyler",112325,1953,100
+"Ratatouille","https://www.imdb.com/title/tt0382932/",8,111,"Animation","Adventure","Comedy","Drama","Brad Bird, Jan Pinkava",535847,2007,70
+"Beauty and the Beast","https://www.imdb.com/title/tt0101414/",8,84,"Animation","Family","Fantasy","Musical","Gary Trousdale, Kirk Wise",365677,1991,80
+"The Truman Show","https://www.imdb.com/title/tt0120382/",8.1,103,"Comedy","Drama","Sci-Fi","Animation","Peter Weir",777995,1998,60
+"Monsters, Inc.","https://www.imdb.com/title/tt0198781/",8.1,92,"Animation","Adventure","Comedy","Family","David Silverman, Pete Docter, Lee Unkrich",685180,2001,80
+"Jurassic Park","https://www.imdb.com/title/tt0107290/",8.1,127,"Adventure","Sci-Fi","Thriller","Drama","Steven Spielberg",720672,1993,60
+"The Terminal","https://www.imdb.com/title/tt0362227/",7.3,128,"Comedy","Drama","Romance","Horror","Steven Spielberg",343580,2004,80
+"Sleepless in Seattle","https://www.imdb.com/title/tt0108160/",6.8,105,"Comedy","Drama","Romance","Action","Nora Ephron",136765,1993,40
+"(500) Days of Summer","https://www.imdb.com/title/tt1022603/",7.7,95,"Comedy","Drama","Romance","Animation","Marc Webb",420670,2009,30
+"Avatar","https://www.imdb.com/title/tt0499549/",7.8,162,"Action","Adventure","Fantasy","Sci-Fi","James Cameron",985099,2009,40
+"Toy Story 2","https://www.imdb.com/title/tt0120363/",7.9,92,"Animation","Adventure","Comedy","Family","John Lasseter, Lee Unkrich, Ash Brannon",435965,1999,80
+"The Simpsons Movie","https://www.imdb.com/title/tt0462538/",7.4,87,"Animation","Adventure","Comedy","Biography","David Silverman",279359,2007,90
+"El laberinto del fauno","https://www.imdb.com/title/tt0457430/",8.2,118,"Drama","Fantasy","War","Animation","Guillermo del Toro",538750,2006,40
+"The Curious Case of Benjamin Button","https://www.imdb.com/title/tt0421715/",7.8,166,"Drama","Fantasy","Romance","Drama","David Fincher",511753,2008,90
+"Jodaeiye Nader az Simin","https://www.imdb.com/title/tt1832382/",8.3,123,"Drama","Mystery","Action","Drama","Asghar Farhadi",181207,2011,90
+"The Incredibles","https://www.imdb.com/title/tt0317705/",8,115,"Animation","Action","Adventure","Family","Brad Bird",541812,2004,70
+"Shrek","https://www.imdb.com/title/tt0126029/",7.9,90,"Animation","Adventure","Comedy","Family","Vicky Jenson, Andrew Adamson",524050,2001,50
+"Before Sunset","https://www.imdb.com/title/tt0381681/",8.1,80,"Drama","Romance","Adventure","Drama","Richard Linklater",192448,2004,100
+"King Kong","https://www.imdb.com/title/tt0360717/",7.2,187,"Action","Adventure","Drama","Romance","Peter Jackson",349606,2005,50
+"Face/Off","https://www.imdb.com/title/tt0119094/",7.3,138,"Action","Crime","Sci-Fi","Thriller","John Woo",309962,1997,40
+"Spider-Man","https://www.imdb.com/title/tt0145487/",7.3,121,"Action","Adventure","Sci-Fi","Biography","Sam Raimi",604634,2002,40
+"Spider-Man 2","https://www.imdb.com/title/tt0316654/",7.3,127,"Action","Adventure","Sci-Fi","Comedy","Sam Raimi",467751,2004,40
+"Dead Poets Society","https://www.imdb.com/title/tt0097165/",8.1,128,"Comedy","Drama","Crime","Animation","Peter Weir",330643,1989,50
+"The Message","https://www.imdb.com/title/tt0074896/",8.2,177,"Adventure","Biography","Drama","History","Moustapha Akkad",38112,1976,60
+"Atonement","https://www.imdb.com/title/tt0783233/",7.8,123,"Drama","Mystery","Romance","War","Joe Wright",215788,2007,100
+"Persepolis","https://www.imdb.com/title/tt0808417/",8.1,96,"Animation","Biography","Drama","War","Marjane Satrapi, Vincent Paronnaud",78155,2007,60
+"The Others","https://www.imdb.com/title/tt0230600/",7.6,101,"Horror","Mystery","Thriller","Animation","Alejandro Amenábar",299249,2001,60
+"Match Point","https://www.imdb.com/title/tt0416320/",7.7,124,"Drama","Romance","Thriller","Comedy","Woody Allen",183726,2005,80
+"Pirates of the Caribbean: The Curse of the Black Pearl","https://www.imdb.com/title/tt0325980/",8,143,"Action","Adventure","Fantasy","Animation","Gore Verbinski",914591,2003,50
+"Sense and Sensibility","https://www.imdb.com/title/tt0114388/",7.7,136,"Drama","Romance","Crime","Adventure","Ang Lee",87005,1995,60
+"Harry Potter and the Sorcerer's Stone","https://www.imdb.com/title/tt0241527/",7.6,152,"Adventure","Family","Fantasy","Comedy","Chris Columbus",522785,2001,60
+"Harry Potter and the Chamber of Secrets","https://www.imdb.com/title/tt0295297/",7.4,161,"Adventure","Family","Fantasy","Mystery","Chris Columbus",452520,2002,60
+"Men in Black","https://www.imdb.com/title/tt0119654/",7.3,98,"Adventure","Comedy","Family","Mystery","Barry Sonnenfeld",450057,1997,40
+"Pleasantville","https://www.imdb.com/title/tt0120789/",7.5,124,"Comedy","Drama","Fantasy","Comedy","Gary Ross",110619,1998,50
+"E.T. the Extra-Terrestrial","https://www.imdb.com/title/tt0083866/",7.9,115,"Family","Sci-Fi","Comedy","Comedy","Steven Spielberg",317420,1982,70
+"Mary Poppins","https://www.imdb.com/title/tt0058331/",7.8,139,"Comedy","Family","Fantasy","Musical","Robert Stevenson",124279,1964,90
+"The Sound of Music","https://www.imdb.com/title/tt0059742/",8,172,"Biography","Drama","Family","Musical","Robert Wise",168941,1965,100
+"The Lion King","https://www.imdb.com/title/tt0110357/",8.5,88,"Animation","Adventure","Drama","Family","Rob Minkoff, Roger Allers",763718,1994,90
+"My Fair Lady","https://www.imdb.com/title/tt0058385/",7.9,170,"Drama","Family","Musical","Romance","George Cukor",75230,1964,80
+"Scent of a Woman","https://www.imdb.com/title/tt0105323/",8,156,"Drama","Drama","Animation","Action","Martin Brest",218128,1992,90
+"Sabrina","https://www.imdb.com/title/tt0047437/",7.7,113,"Comedy","Drama","Romance","Animation","Billy Wilder",50081,1954,100
+"Before Sunrise","https://www.imdb.com/title/tt0112471/",8.1,101,"Drama","Romance","Action","Animation","Richard Linklater",220428,1995,80
+"Little Women","https://www.imdb.com/title/tt0110367/",7.3,115,"Drama","Family","Romance","Drama","Gillian Armstrong",40881,1994,70
+"The Jungle Book","https://www.imdb.com/title/tt0061852/",7.6,78,"Animation","Adventure","Family","Musical","Wolfgang Reitherman",140847,1967,90
+"Catch Me If You Can","https://www.imdb.com/title/tt0264464/",8.1,141,"Biography","Crime","Drama","Drama","Steven Spielberg",652818,2002,80
+"Harry Potter and the Prisoner of Azkaban","https://www.imdb.com/title/tt0304141/",7.8,142,"Adventure","Family","Fantasy","Mystery","Alfonso Cuarón",447808,2004,60
+"Saw","https://www.imdb.com/title/tt0387564/",7.6,103,"Crime","Horror","Mystery","Thriller","James Wan",334925,2004,30
+"Pinocchio","https://www.imdb.com/title/tt0032910/",7.5,88,"Animation","Comedy","Family","Fantasy","Jack Kinney, Ben Sharpsteen, Hamilton Luske, Wilfred Jackson, T. Hee, Norman Ferguson, Bill Roberts",106482,1940,80
+"The Illusionist","https://www.imdb.com/title/tt0443543/",7.6,110,"Drama","Mystery","Romance","Thriller","Neil Burger",324989,2006,80
+"Harry Potter and the Goblet of Fire","https://www.imdb.com/title/tt0330373/",7.7,157,"Adventure","Family","Fantasy","Mystery","Mike Newell",449094,2005,60
+"Ice Age","https://www.imdb.com/title/tt0268380/",7.5,81,"Animation","Adventure","Comedy","Family","Chris Wedge, Carlos Saldanha",371385,2002,60
+"The Little Mermaid","https://www.imdb.com/title/tt0097757/",7.6,83,"Animation","Family","Fantasy","Musical","Ron Clements, John Musker",196624,1989,70
+"Babel","https://www.imdb.com/title/tt0449467/",7.5,143,"Drama","Drama","Crime","Drama","Alejandro G. Iñárritu",263655,2006,70
+"Corpse Bride","https://www.imdb.com/title/tt0121164/",7.4,77,"Animation","Drama","Family","Fantasy","Tim Burton, Mike Johnson",212282,2005,80
+"Dumbo","https://www.imdb.com/title/tt0033563/",7.3,64,"Animation","Drama","Family","Musical","Jack Kinney, Ben Sharpsteen, Samuel Armstrong, Wilfred Jackson, John Elliotte, Norman Ferguson, Bill Roberts",99000,1941,60
+"Precious","https://www.imdb.com/title/tt0929632/",7.3,110,"Drama","Drama","Drama","Animation","Lee Daniels",96188,2009,80
+"Sleeping Beauty","https://www.imdb.com/title/tt0053285/",7.3,75,"Animation","Family","Fantasy","Musical","Clyde Geronimi",114289,1959,80
+"Superman","https://www.imdb.com/title/tt0078346/",7.3,143,"Action","Adventure","Drama","Sci-Fi","Richard Donner",140291,1978,80
+"Cinderella","https://www.imdb.com/title/tt0042332/",7.3,74,"Animation","Family","Fantasy","Musical","Hamilton Luske, Clyde Geronimi, Wilfred Jackson",121999,1950,80
+"Shrek 2","https://www.imdb.com/title/tt0298148/",7.2,93,"Animation","Adventure","Comedy","Family","Conrad Vernon, Kelly Asbury, Andrew Adamson",354640,2004,50
+"Pirates of the Caribbean: Dead Man's Chest","https://www.imdb.com/title/tt0383574/",7.3,151,"Action","Adventure","Fantasy","Animation","Gore Verbinski",583496,2006,50
+"K-PAX","https://www.imdb.com/title/tt0272152/",7.4,120,"Drama","Sci-Fi","Biography","Drama","Iain Softley",162033,2001,40
+"Home Alone","https://www.imdb.com/title/tt0099785/",7.5,103,"Comedy","Family","Animation","Action","Chris Columbus",371568,1990,70
+"Vicky Cristina Barcelona","https://www.imdb.com/title/tt0497465/",7.1,96,"Drama","Romance","Animation","Action","Woody Allen",218644,2008,90
+"One Hundred and One Dalmatians","https://www.imdb.com/title/tt0055254/",7.2,79,"Animation","Adventure","Comedy","Family","Wolfgang Reitherman, Hamilton Luske, Clyde Geronimi",128084,1961,90
+"Never Let Me Go","https://www.imdb.com/title/tt1334260/",7.2,103,"Drama","Romance","Sci-Fi","Action","Mark Romanek",124161,2010,60
+"The Land Before Time","https://www.imdb.com/title/tt0095489/",7.4,69,"Animation","Adventure","Drama","Family","Don Bluth",68960,1988,60
+"Bolt","https://www.imdb.com/title/tt0397892/",6.9,96,"Animation","Adventure","Comedy","Drama","Byron Howard, Chris Williams",163613,2008,50
+"Ice Age: Dawn of the Dinosaurs","https://www.imdb.com/title/tt1080016/",7,94,"Animation","Action","Adventure","Comedy","Mike Thurmeier, Carlos Saldanha",189079,2009,70
+"Troy","https://www.imdb.com/title/tt0332452/",7.2,163,"Drama","History","Romance","Action","Wolfgang Petersen",427659,2004,70
+"The Mask","https://www.imdb.com/title/tt0110475/",6.9,101,"Comedy","Fantasy","Drama","Comedy","Chuck Russell",296175,1994,80
+"The Legend of Zorro","https://www.imdb.com/title/tt0386140/",5.9,129,"Action","Adventure","Western","Adventure","Martin Campbell",80821,2005,40
+"13 Going on 30","https://www.imdb.com/title/tt0337563/",6.1,98,"Comedy","Fantasy","Romance","Drama","Gary Winick",137932,2004,40
+"Hitch","https://www.imdb.com/title/tt0386588/",6.6,118,"Comedy","Romance","Horror","Animation","Andy Tennant",266873,2005,30
+"You've Got Mail","https://www.imdb.com/title/tt0128853/",6.6,119,"Comedy","Drama","Romance","Horror","Nora Ephron",168646,1998,90
+"Charlie and the Chocolate Factory","https://www.imdb.com/title/tt0367594/",6.7,115,"Adventure","Comedy","Family","Fantasy","Tim Burton",364685,2005,40
+"Pirates of the Caribbean: At World's End","https://www.imdb.com/title/tt0449088/",7.1,169,"Action","Adventure","Fantasy","Drama","Gore Verbinski",529034,2007,60
+"The Island","https://www.imdb.com/title/tt0399201/",6.9,136,"Action","Adventure","Romance","Sci-Fi","Michael Bay",280684,2005,60
+"Mrs. Doubtfire","https://www.imdb.com/title/tt0107614/",6.9,125,"Comedy","Drama","Family","Action","Chris Columbus",206232,1993,30
+"Night at the Museum: Battle of the Smithsonian","https://www.imdb.com/title/tt1078912/",5.9,105,"Adventure","Comedy","Family","Fantasy","Shawn Levy",149246,2009,30
+"Juno","https://www.imdb.com/title/tt0467406/",7.5,96,"Comedy","Drama","Action","Drama","Jason Reitman",449720,2007,40
+"The Time Machine","https://www.imdb.com/title/tt0268695/",5.9,96,"Action","Adventure","Sci-Fi","Adventure","Simon Wells",109712,2002,30
+"The Mummy","https://www.imdb.com/title/tt0120616/",7,124,"Action","Adventure","Fantasy","Adventure","Stephen Sommers",349380,1999,40
+"Bruce Almighty","https://www.imdb.com/title/tt0315327/",6.7,101,"Comedy","Drama","Fantasy","Adventure","Tom Shadyac",329042,2003,70
+"Night at the Museum","https://www.imdb.com/title/tt0477347/",6.4,108,"Adventure","Comedy","Family","Fantasy","Shawn Levy",267809,2006,30
+"Shrek the Third","https://www.imdb.com/title/tt0413267/",6,93,"Animation","Adventure","Comedy","Family","Chris Miller, Raman Hui",237840,2007,60
+"Knowing","https://www.imdb.com/title/tt0448011/",6.2,121,"Drama","Mystery","Sci-Fi","Thriller","Alex Proyas",201389,2009,60
+"War of the Worlds","https://www.imdb.com/title/tt0407304/",6.5,116,"Adventure","Sci-Fi","Thriller","Comedy","Steven Spielberg",368317,2005,30
+"I, Robot","https://www.imdb.com/title/tt0343818/",7.1,115,"Action","Crime","Drama","Mystery","Alex Proyas",438592,2004,40
+"Liar Liar","https://www.imdb.com/title/tt0119528/",6.9,86,"Comedy","Fantasy","Animation","Family","Tom Shadyac",245584,1997,80
+"The Ring","https://www.imdb.com/title/tt0298130/",7.1,115,"Horror","Mystery","Biography","Comedy","Gore Verbinski",283537,2002,40
+"Final Destination","https://www.imdb.com/title/tt0195714/",6.7,98,"Horror","Thriller","Animation","Biography","James Wong",200257,2000,30
+"Final Destination 2","https://www.imdb.com/title/tt0309593/",6.2,90,"Fantasy","Horror","Mystery","Thriller","David R. Ellis",133226,2003,30
+"White Chicks","https://www.imdb.com/title/tt0381707/",5.5,109,"Comedy","Crime","Drama","Animation","Keenen Ivory Wayans",111505,2004,20
+"Blindness","https://www.imdb.com/title/tt0861689/",6.6,121,"Drama","Mystery","Sci-Fi","Thriller","Fernando Meirelles",63691,2008,70
+"Stuart Little","https://www.imdb.com/title/tt0164912/",5.9,84,"Adventure","Comedy","Family","Fantasy","Rob Minkoff",107637,1999,50
+"High School Musical 3: Senior Year","https://www.imdb.com/title/tt0962726/",4.6,112,"Comedy","Drama","Family","Music","Kenny Ortega",49546,2008,30
+"17 Again","https://www.imdb.com/title/tt0974661/",6.4,102,"Comedy","Drama","Fantasy","Drama","Burr Steers",159247,2009,30
+"High School Musical","https://www.imdb.com/title/tt0475293/",5.3,98,"Comedy","Drama","Family","Music","Kenny Ortega",68206,2006,30
+"High School Musical 2","https://www.imdb.com/title/tt0810900/",4.9,104,"Comedy","Drama","Family","Music","Kenny Ortega",46116,2007,30
+"Friends","https://www.imdb.com/title/tt0108778/",8.9,22,"Comedy","Romance","Drama","Drama","Kiana",589586,1994,100
+"Doctor Zhivago","https://www.imdb.com/title/tt0324937/",7.5,226,"Drama","Romance","Drama","Comedy","Kiana",4461,2002,90
+"P.S. I Love You","https://www.imdb.com/title/tt0431308/",7.1,126,"Drama","Romance","Biography","Drama","Richard LaGravenese",184549,2007,70
+"A Cinderella Story","https://www.imdb.com/title/tt0356470/",5.9,95,"Comedy","Family","Romance","Drama","Mark Rosman",70664,2004,50
+"City of Angels","https://www.imdb.com/title/tt0120632/",6.7,114,"Drama","Fantasy","Romance","Animation","Brad Silberling",102728,1998,70
+"Ghost","https://www.imdb.com/title/tt0099653/",7,127,"Drama","Fantasy","Romance","Thriller","Jerry Zucker",169517,1990,50
+"The Twilight Saga: New Moon","https://www.imdb.com/title/tt1259571/",4.7,130,"Adventure","Drama","Fantasy","Romance","Chris Weitz",237589,2009,30
+"So You Think You Can Dance","https://www.imdb.com/title/tt0472023/",6.8,60,"Game-Show","Music","Reality-TV","Biography","Kiana",9489,2005,90
+"The Big Bang Theory","https://www.imdb.com/title/tt0898266/",8.3,22,"Comedy","Romance","Comedy","Adventure","Kiana",599538,2007,80
+"Breakfast at Tiffany's","https://www.imdb.com/title/tt0054698/",7.7,115,"Comedy","Drama","Romance","Crime","Blake Edwards",142054,1961,80
+"Darbareye Elly","https://www.imdb.com/title/tt1360860/",8.1,119,"Drama","Mystery","Thriller","Animation","Asghar Farhadi",34081,2009,90
+"Narenji Poush","https://www.imdb.com/title/tt2149053/",4.9,107,"Comedy","Drama","Animation","Drama","Dariush Mehrjui",870,2012,20
+"Santoori","https://www.imdb.com/title/tt0385277/",7.6,107,"Drama","Musical","Romance","Adventure","Dariush Mehrjui",5766,2007,90
+"Dayereh-e zangi","https://www.imdb.com/title/tt1170393/",7.2,110,"Comedy","Drama","Animation","Animation","Parisa Bakhtavar",2045,2008,40
+"Taghato","https://www.imdb.com/title/tt1111954/",6.1,102,"Drama","Comedy","Comedy","Animation","Abolhassan Davoodi",437,2006,80
+"Mim mesle madar","https://www.imdb.com/title/tt1113810/",7.6,113,"Drama","Drama","Animation","Drama","Rasool Mollagholi Poor",3333,2006,80
+"Be name pedar","https://www.imdb.com/title/tt1313230/",6.1,105,"Drama","War","Adventure","Animation","Ebrahim Hatamikia",1330,2006,60
+"Bab'Aziz","https://www.imdb.com/title/tt0395461/",7.6,96,"Drama","Crime","Comedy","Animation","Nacer Khemir",2535,2005,80
+"Kheili dour, kheili nazdik","https://www.imdb.com/title/tt0483703/",7.6,121,"Drama","Action","Comedy","Drama","Reza Mirkarimi",2066,2005,70
+"Zendan-e zanan","https://www.imdb.com/title/tt0332834/",6.7,106,"Drama","Adventure","Comedy","Animation","Manijeh Hekmat",790,2002,60
+"Mehman-e maman","https://www.imdb.com/title/tt0405149/",7.2,103,"Comedy","Drama","Action","Action","Dariush Mehrjui",2653,2004,40
+"Gaav","https://www.imdb.com/title/tt0064356/",8.1,104,"Drama","Adventure","Animation","Animation","Dariush Mehrjui",4781,1969,80
+"Shirin","https://www.imdb.com/title/tt1284587/",6.8,92,"Drama","Action","Animation","Animation","Abbas Kiarostami",1885,2008,90
+"Kamalolmolk","https://www.imdb.com/title/tt0087530/",7.5,122,"Biography","Drama","History","Action","Ali Hatami",701,1984,60
+"Del Shodegan","https://www.imdb.com/title/tt0125718/",7.6,91,"Drama","History","Music","Drama","Ali Hatami",650,1992,60
+"Casablanca","https://www.imdb.com/title/tt0034583/",8.5,102,"Drama","Romance","War","Comedy","Michael Curtiz",445471,1942,100
+"A Christmas Carol","https://www.imdb.com/title/tt1067106/",6.8,96,"Animation","Drama","Family","Fantasy","Robert Zemeckis",85244,2009,40
+"Evan Almighty","https://www.imdb.com/title/tt0413099/",5.4,96,"Comedy","Family","Fantasy","Drama","Tom Shadyac",124753,2007,30
+"City Lights","https://www.imdb.com/title/tt0021749/",8.6,87,"Comedy","Drama","Romance","Animation","Charles Chaplin",133446,1931,60
+"Home Alone 2: Lost in New York","https://www.imdb.com/title/tt0104431/",6.6,120,"Adventure","Comedy","Family","Drama","Chris Columbus",240450,1992,80
+"Home Alone 3","https://www.imdb.com/title/tt0119303/",4.4,102,"Comedy","Crime","Family","Animation","Raja Gosnell",87736,1997,60
+"Madagascar","https://www.imdb.com/title/tt0351283/",6.9,86,"Animation","Adventure","Comedy","Family","Tom McGrath, Eric Darnell",305985,2005,50
+"Alvin and the Chipmunks","https://www.imdb.com/title/tt0952640/",5.2,92,"Animation","Comedy","Family","Fantasy","Tim Hill",64651,2007,20
+"Final Destination 3","https://www.imdb.com/title/tt0414982/",5.8,93,"Fantasy","Horror","Mystery","Thriller","James Wong",114102,2006,20
+"Kolah ghermezi va pesar khale","https://www.imdb.com/title/tt0780061/",8.1,92,"Comedy","Music","Drama","Animation","Iraj Tahmasb",1486,1994,90
+"Shahr-e mooshha","https://www.imdb.com/title/tt0254769/",7.3,92,"Comedy","Family","Fantasy","Musical","Mohammad-Ali Talebi, Marzieh Boroomand",439,1986,100
+"Alo!Alo! Man joojoo-am","https://www.imdb.com/title/tt1949115/",6,82,"Comedy","Family","Fantasy","Animation","Marzieh Boroomand",183,1995,80
+"Bacheha-Ye aseman","https://www.imdb.com/title/tt0118849/",8.3,89,"Drama","Family","Drama","Drama","Majid Majidi",44640,1997,90
+"Marmoulak","https://www.imdb.com/title/tt0416960/",8.6,115,"Comedy","Drama","Drama","Comedy","Kamal Tabrizi",9473,2004,80
+"Leily Ba Man Ast","https://www.imdb.com/title/tt0116852/",7.8,95,"Adventure","Comedy","War","Action","Kamal Tabrizi",2853,1996,80
+"Man, Taraneh, panzdah sal daram","https://www.imdb.com/title/tt0329347/",7.2,110,"Drama","Adventure","Animation","Comedy","Rasoul Sadrameli",2347,2002,80
+"Divanei az ghafas parid","https://www.imdb.com/title/tt0819880/",6.1,111,"Drama","War","Animation","Comedy","Ahmad Reza Mo'tamedi",282,2003,60
+"Damagh be sabke irani","https://www.imdb.com/title/tt1298835/",6.6,52,"Documentary","Crime","Drama","Comedy","Mehrdad Oskouei",74,2006,30
+"Maxx","https://www.imdb.com/title/tt0780076/",6.3,110,"Comedy","Musical","Action","Adventure","Saman Moghadam",682,2005,70
+"At the End of 8th Street","https://www.imdb.com/title/tt2358899/",6.3,90,"Drama","Crime","Action","Action","Alireza Amini",633,2012,30
+"Nok-e borj","https://www.imdb.com/title/tt0489788/",4,106,"Comedy","Comedy","Action","Action","Kiumars Poorahmad",121,2005,50
+"Gol-e yakh","https://www.imdb.com/title/tt0498802/",3.9,94,"Drama","Romance","Action","Comedy","Kiumars Poorahmad",240,2005,20
+"Khaharan-e gharib","https://www.imdb.com/title/tt0926208/",6.6,93,"Drama","Family","Musical","Adventure","Kiumars Poorahmad",867,1996,90
+"Ekhrajiha","https://www.imdb.com/title/tt1388418/",4.1,107,"Action","Comedy","Drama","War","Masoud Dehnamaki",1929,2007,10
+"Ekhrajiha 2","https://www.imdb.com/title/tt1431240/",2.6,114,"Action","Comedy","Drama","War","Masoud Dehnamaki",2247,2009,10
+"Vaghti hame khab boodand","https://www.imdb.com/title/tt0841186/",6.5,84,"Drama","Animation","Comedy","Comedy","Fereidoun Hasanpour",119,2006,20
+"Khabgah-e dokhtaran","https://www.imdb.com/title/tt0498813/",5.1,106,"Drama","Horror","Adventure","Action","Mohammad Hossein Latifi",368,2005,70
+"Dozd aroosakha","https://www.imdb.com/title/tt0123046/",6.4,77,"Comedy","Family","Musical","Action","Mohamad Reza Honarmand",523,1990,80
+"Ezdevaj be sabke irani","https://www.imdb.com/title/tt0945553/",5,110,"Comedy","Drama","Drama","Comedy","Hassan Fathi",476,2006,50
+"Do zan","https://www.imdb.com/title/tt0212573/",6.8,96,"Drama","Thriller","Animation","Adventure","Tahmineh Milani",1260,1999,50
+"Atash bas","https://www.imdb.com/title/tt0838254/",5.3,104,"Comedy","Romance","Horror","Animation","Tahmineh Milani",1869,2006,30
+"Mozahem","https://www.imdb.com/title/tt0384356/",4.6,106,"Drama","Action","Drama","Drama","Sirus Alvand",249,2002,30
+"Par-e parvaz","https://www.imdb.com/title/tt1910594/",5.1,106,"Drama","Music","Romance","Adventure","Khosro Masumi",160,2000,40
+"Nan va eshgh va motor 1000","https://www.imdb.com/title/tt1909808/",5.7,106,"Comedy","Crime","Action","Action","Abolhassan Davoodi",420,2002,20
+"Shaam-e aroosi","https://www.imdb.com/title/tt0816176/",4,106,"Comedy","Drama","Drama","Comedy","Ebrahim Vahidzadeh",346,2006,20
+"Zede Golooleh","https://www.imdb.com/title/tt2489408/",5.5,104,"Comedy","Drama","War","Horror","Mostafa Kiayee",191,2012,70
+"When Harry Met Sally...","https://www.imdb.com/title/tt0098635/",7.6,96,"Comedy","Drama","Romance","Horror","Rob Reiner",167275,1989,30
+"Azmayeshgah","https://www.imdb.com/title/tt2211784/",4.6,106,"Comedy","Romance","Adventure","Fantasy","Hamid Amjad",106,2012,20
+"Khane sabz","https://www.imdb.com/title/tt0120977/",7.7,106,"Comedy","Drama","Adventure","Comedy","Kiana",882,1996,80
+"Chap dast","https://www.imdb.com/title/tt0907632/",3.2,106,"Comedy","Biography","Adventure","Drama","Arash Moayerian",154,2006,40
+"Baaghe Mozaffar","https://www.imdb.com/title/tt0965386/",6.5,106,"Comedy","Animation","Comedy","Adventure","Kiana",984,2006,80
+"Samandoon","https://www.imdb.com/title/tt1094619/",6.4,106,"Comedy","Animation","Family","Comedy","Kiana",108,1995,80
+"Shabhaye Barareh","https://www.imdb.com/title/tt0493331/",8.4,60,"Comedy","Drama","Comedy","Comedy","Kiana",2959,2005,80
+"Rat Race","https://www.imdb.com/title/tt0250687/",6.4,112,"Adventure","Comedy","Biography","Comedy","Jerry Zucker",99318,2001,60
+"The Pink Panther Show","https://www.imdb.com/title/tt0063939/",7.7,90,"Animation","Comedy","Family","Comedy","Kiana",12328,1969,80
+"Tom and Jerry: The Movie","https://www.imdb.com/title/tt0105616/",5.3,84,"Animation","Comedy","Drama","Family","Phil Roman",7803,1992,80
+"The New Tom & Jerry Show","https://www.imdb.com/title/tt0130417/",7.9,7,"Animation","Family","Comedy","Comedy","Kiana",5423,1975,80
+"Tom and Jerry: The Magic Ring","https://www.imdb.com/title/tt0303151/",6.3,62,"Animation","Action","Comedy","Family","James T. Walker",1821,2002,80
+"Tom and Jerry Blast Off to Mars!","https://www.imdb.com/title/tt0433696/",6,74,"Animation","Action","Adventure","Comedy","Bill Kopp",1134,2005,80
+"Murdoch Mysteries","https://www.imdb.com/title/tt1091909/",8.1,48,"Crime","Drama","Mystery","Drama","Kiana",7610,2008,80
+"Agatha Christie's Poirot","https://www.imdb.com/title/tt0094525/",8.6,100,"Crime","Drama","Mystery","Thriller","Kiana",29772,1989,90
+"X-Men Origins: Wolverine","https://www.imdb.com/title/tt0458525/",6.6,107,"Action","Adventure","Sci-Fi","Thriller","Gavin Hood",410366,2009,40
+"Baby's Day Out","https://www.imdb.com/title/tt0109190/",6,99,"Adventure","Comedy","Crime","Drama","Patrick Read Johnson",38192,1994,40
+"Honey I Blew Up the Kid","https://www.imdb.com/title/tt0104437/",4.8,89,"Adventure","Comedy","Family","Romance","Randal Kleiser",35494,1992,40
+"Women Are Angels","https://www.imdb.com/title/tt1814951/",3.7,97,"Comedy","Horror","Animation","Drama","Shahram Shah Hosseini",294,2008,20
+"Moulin Rouge!","https://www.imdb.com/title/tt0203009/",7.6,127,"Drama","Musical","Romance","Comedy","Baz Luhrmann",242945,2001,50
+"Modern Times","https://www.imdb.com/title/tt0027977/",8.5,87,"Comedy","Drama","Family","Romance","Charles Chaplin",174048,1936,70
+"Child's Play","https://www.imdb.com/title/tt0094862/",6.6,87,"Horror","Thriller","Drama","Drama","Tom Holland",70905,1988,40
+"Bambi","https://www.imdb.com/title/tt0034492/",7.3,70,"Animation","Drama","Family","Drama","Samuel Armstrong, Paul Satterfield, Graham Heid, James Algar, David Hand, Bill Roberts, Norman Wright",108892,1942,60
+"The Lion, the Witch, & the Wardrobe","https://www.imdb.com/title/tt0094500/",7.3,171,"Adventure","Family","Fantasy","Adventure","Kiana",4944,1988,70
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","https://www.imdb.com/title/tt0363771/",6.9,143,"Adventure","Family","Fantasy","Game-Show","Andrew Adamson",320846,2005,70
+"David Copperfield","https://www.imdb.com/title/tt0167872/",7.8,185,"Drama","Action","Drama","Comedy","Kiana",3619,1999,70
+"The Duchess","https://www.imdb.com/title/tt0864761/",6.9,110,"Biography","Drama","History","Romance","Saul Dibb",68844,2008,70
+"Alexander","https://www.imdb.com/title/tt0346491/",5.6,175,"Action","Adventure","Biography","Drama","Oliver Stone",149090,2004,50
+"Anastasia","https://www.imdb.com/title/tt0118617/",7.1,94,"Animation","Adventure","Drama","Family","Don Bluth, Gary Goldman",97909,1997,70
+"Casper","https://www.imdb.com/title/tt0112642/",6.1,100,"Comedy","Family","Fantasy","Comedy","Brad Silberling",99382,1995,70
+"Snow White and the Seven Dwarfs","https://www.imdb.com/title/tt0029583/",7.6,83,"Animation","Family","Fantasy","Musical","William Cottrell, Ben Sharpsteen, David Hand, Perce Pearce, Wilfred Jackson, Larry Morey",152992,1937,60
+"Alice in Wonderland","https://www.imdb.com/title/tt0043274/",7.4,75,"Animation","Adventure","Family","Fantasy","Hamilton Luske, Clyde Geronimi, Wilfred Jackson",108655,1951,50
+"Stuart Little 2","https://www.imdb.com/title/tt0243585/",5.5,77,"Animation","Adventure","Comedy","Family","Rob Minkoff",42254,2002,30
+"Jumanji","https://www.imdb.com/title/tt0113497/",6.9,104,"Adventure","Family","Fantasy","Drama","Joe Johnston",251649,1995,30
+"Judge Dredd","https://www.imdb.com/title/tt0113492/",5.5,96,"Action","Crime","Sci-Fi","Thriller","Danny Cannon",97787,1995,50
+"The Man Who Cried","https://www.imdb.com/title/tt0206917/",6.2,100,"Drama","Music","Romance","War","Sally Potter",13253,2000,60
+"20,000 Leagues Under the Sea","https://www.imdb.com/title/tt0046672/",7.2,127,"Adventure","Drama","Family","Fantasy","Richard Fleischer",24628,1954,70
+"Next","https://www.imdb.com/title/tt0435705/",6.2,96,"Action","Sci-Fi","Thriller","Comedy","Lee Tamahori",134822,2007,40
+"Shark Tale","https://www.imdb.com/title/tt0307453/",6,90,"Animation","Adventure","Comedy","Family","Bibo Bergeron, Vicky Jenson, Rob Letterman",146630,2004,40
+"Girl with a Pearl Earring","https://www.imdb.com/title/tt0335119/",6.9,100,"Biography","Drama","Romance","Drama","Peter Webber",65636,2003,70
+"Harry Potter and the Deathly Hallows: Part 1","https://www.imdb.com/title/tt0926084/",7.7,146,"Adventure","Family","Fantasy","Mystery","David Yates",387714,2010,80
+"Harry Potter and the Deathly Hallows: Part 2","https://www.imdb.com/title/tt1201607/",8.1,130,"Adventure","Drama","Fantasy","Mystery","David Yates",641230,2011,80
+"Harry Potter and the Order of the Phoenix","https://www.imdb.com/title/tt0373889/",7.5,138,"Adventure","Family","Fantasy","Mystery","David Yates",415616,2007,70
+"Sweet November","https://www.imdb.com/title/tt0230838/",6.7,119,"Drama","Romance","Comedy","Comedy","Pat O'Connor",76754,2001,80
+"The Ugly Duckling and Me!","https://www.imdb.com/title/tt0396042/",5.5,89,"Animation","Adventure","Comedy","Drama","Karsten Kiilerich, Michael Hegner",2164,2006,70
+"Bin-jip","https://www.imdb.com/title/tt0423866/",8.1,88,"Crime","Drama","Romance","Drama","Ki-duk Kim",42894,2004,80
+"Désirée","https://www.imdb.com/title/tt0046903/",6.4,110,"Biography","Drama","History","Romance","Henry Koster",2142,1954,100
+"Hamoun","https://www.imdb.com/title/tt0099729/",8.2,120,"Drama","Animation","Drama","Drama","Dariush Mehrjui",5443,1990,70
+"The Terminator","https://www.imdb.com/title/tt0088247/",8,107,"Action","Sci-Fi","Drama","Drama","James Cameron",685325,1984,50
+"Terminator 2: Judgment Day","https://www.imdb.com/title/tt0103064/",8.5,137,"Action","Sci-Fi","Animation","Drama","James Cameron",848382,1991,50
+"Anna Karenina","https://www.imdb.com/title/tt1781769/",6.6,129,"Drama","Romance","Biography","Drama","Joe Wright",80194,2012,50
+"Les Misérables","https://www.imdb.com/title/tt1707386/",7.6,158,"Drama","History","Musical","Romance","Tom Hooper",271209,2012,80
+"Thunderpants","https://www.imdb.com/title/tt0283054/",3.6,87,"Comedy","Family","Sci-Fi","Comedy","Peter Hewitt",4878,2002,20
+"Rear Window","https://www.imdb.com/title/tt0047396/",8.5,112,"Mystery","Thriller","Adventure","Drama","Alfred Hitchcock",369648,1954,90
+"The Shop Around the Corner","https://www.imdb.com/title/tt0033045/",8.1,99,"Comedy","Drama","Romance","Drama","Ernst Lubitsch",22841,1940,80
+"Harry Potter and the Half-Blood Prince","https://www.imdb.com/title/tt0417741/",7.6,153,"Adventure","Family","Fantasy","Mystery","David Yates",380749,2009,70
+"Amour","https://www.imdb.com/title/tt1602620/",7.9,127,"Drama","Romance","Crime","Biography","Michael Haneke",80217,2012,70
+"Zandegi ba cheshmane baste","https://www.imdb.com/title/tt1433857/",5.7,101,"Drama","Biography","Animation","Drama","Rasoul Sadrameli",408,2010,50
+"Madar","https://www.imdb.com/title/tt0102369/",8.6,108,"Drama","Animation","Drama","Drama","Ali Hatami",3169,1990,70
+"Paperman","https://www.imdb.com/title/tt2388725/",8.3,7,"Animation","Short","Comedy","Family","John Kahrs",28284,2012,90
+"Presto","https://www.imdb.com/title/tt1245104/",8.4,5,"Animation","Short","Comedy","Family","Doug Sweetland",19454,2008,90
+"Partly Cloudy","https://www.imdb.com/title/tt1425244/",8.2,6,"Animation","Short","Comedy","Family","Peter Sohn",16531,2009,90
+"Kiwi!","https://www.imdb.com/title/tt1051713/",8.2,3,"Animation","Short","Action","Adventure","Dony Permedi",7286,2006,100
+"Vincent","https://www.imdb.com/title/tt0084868/",8.4,6,"Short","Animation","Family","Fantasy","Tim Burton",19599,1982,90
+"Fresh Guacamole","https://www.imdb.com/title/tt2309977/",7.4,2,"Animation","Short","Fantasy","Animation","PES",3243,2012,90
+"French Roast","https://www.imdb.com/title/tt1323520/",7.1,8,"Animation","Short","Adventure","Comedy","Fabrice Joubert",2405,2008,90
+"The Little Matchgirl","https://www.imdb.com/title/tt0816562/",7.9,7,"Animation","Short","Drama","Family","Roger Allers",3561,2006,90
+"Pride and Prejudice","https://www.imdb.com/title/tt0112130/",9,327,"Drama","Romance","Animation","Comedy","Kiana",62328,1995,80
+"Tofigh-e Ejbari","https://www.imdb.com/title/tt2418328/",4.7,91,"Comedy","Drama","Animation","Adventure","Mohammad Hossein Latifi",392,2008,30
+"To Kill a Mockingbird","https://www.imdb.com/title/tt0056592/",8.3,129,"Crime","Drama","Drama","Comedy","Robert Mulligan",253828,1962,80
+"Le passé","https://www.imdb.com/title/tt2404461/",7.8,130,"Drama","Mystery","Animation","Animation","Asghar Farhadi",38642,2013,80
+"The Shining","https://www.imdb.com/title/tt0081505/",8.4,146,"Drama","Horror","Animation","Animation","Stanley Kubrick",717319,1980,80
+"Gahi be aseman negah kon","https://www.imdb.com/title/tt0364361/",7.1,92,"Comedy","Drama","Drama","Fantasy","Kamal Tabrizi",281,2003,50
+"Alma","https://www.imdb.com/title/tt1490530/",7.3,6,"Animation","Short","Fantasy","Horror","Rodrigo Blaas",2213,2009,50
+"Before Midnight","https://www.imdb.com/title/tt2209418/",7.9,109,"Drama","Romance","Animation","Comedy","Richard Linklater",113708,2013,70
+"Elizabethtown","https://www.imdb.com/title/tt0368709/",6.4,123,"Comedy","Drama","Romance","Comedy","Cameron Crowe",62236,2005,70
+"House M.D.","https://www.imdb.com/title/tt0412142/",8.8,44,"Drama","Mystery","Action","Comedy","Kiana",351036,2004,100
+"Heroes","https://www.imdb.com/title/tt0813715/",7.6,45,"Drama","Fantasy","Sci-Fi","Thriller","Kiana",213234,2006,70
+"Babak & Friends: A First Norooz","https://www.imdb.com/title/tt0452587/",7.7,33,"Family","Animation","Short","Drama","Dustin Ellis",80,2005,80
+"Sherlock","https://www.imdb.com/title/tt1475582/",9.2,88,"Crime","Drama","Mystery","Comedy","Kiana",638534,2010,100
+"Hich Koja Hich Kas","https://www.imdb.com/title/tt2669832/",5,93,"Crime","Drama","Mystery","Adventure","Ebrahim Sheibani",121,2013,60
+"All Saints","https://www.imdb.com/title/tt0163924/",7.1,60,"Drama","Drama","Animation","Drama","Kiana",930,1998,80
+"The Butterfly Effect","https://www.imdb.com/title/tt0289879/",7.7,113,"Sci-Fi","Thriller","Animation","Drama","J. Mackye Gruber, Eric Bress",399645,2004,70
+"Insidious","https://www.imdb.com/title/tt1591095/",6.8,103,"Horror","Mystery","Thriller","Documentary","James Wan",236360,2010,50
+"The Phantom of the Opera","https://www.imdb.com/title/tt0293508/",7.3,143,"Drama","Musical","Romance","Thriller","Joel Schumacher",105027,2004,100
+"The Phantom of the Opera at the Royal Albert Hall","https://www.imdb.com/title/tt2077886/",8.8,137,"Drama","Music","Musical","Romance","Nick Morris, Laurence Connor",5316,2011,100
+"Cirque du Freak: The Vampire's Assistant","https://www.imdb.com/title/tt0450405/",5.9,109,"Action","Adventure","Fantasy","Thriller","Paul Weitz",38681,2009,70
+"It Happened One Night","https://www.imdb.com/title/tt0025316/",8.1,105,"Comedy","Romance","Action","Comedy","Frank Capra",79064,1934,90
+"EverAfter","https://www.imdb.com/title/tt0120631/",7,121,"Comedy","Drama","Romance","Drama","Andy Tennant",62398,1998,70
+"Vertigo","https://www.imdb.com/title/tt0052357/",8.3,128,"Mystery","Romance","Thriller","Comedy","Alfred Hitchcock",296209,1958,90
+"Love in the Afternoon","https://www.imdb.com/title/tt0050658/",7.3,130,"Comedy","Crime","Drama","Romance","Billy Wilder",11540,1957,80
+"The Apartment","https://www.imdb.com/title/tt0053604/",8.3,125,"Comedy","Drama","Romance","Drama","Billy Wilder",131986,1960,90
+"His Girl Friday","https://www.imdb.com/title/tt0032599/",8,92,"Comedy","Drama","Romance","Drama","Howard Hawks",45775,1940,70
+"Sherlock: His Last Vow","https://www.imdb.com/title/tt2781046/",9.4,89,"Crime","Drama","Mystery","Action","Nick Hurran",23822,2014,100
+"Sherlock Holmes","https://www.imdb.com/title/tt0988045/",7.6,128,"Action","Adventure","Crime","Mystery","Guy Ritchie",525272,2009,70
+"Notorious","https://www.imdb.com/title/tt0038787/",8,101,"Drama","Film-Noir","Romance","Thriller","Alfred Hitchcock",81075,1946,90
+"Charade","https://www.imdb.com/title/tt0056923/",8,113,"Comedy","Mystery","Romance","Thriller","Stanley Donen",56057,1963,100
+"Spellbound","https://www.imdb.com/title/tt0038109/",7.6,111,"Film-Noir","Mystery","Romance","Thriller","Alfred Hitchcock",37035,1945,90
+"An Affair to Remember","https://www.imdb.com/title/tt0050105/",7.6,115,"Drama","Romance","Drama","Action","Leo McCarey",24398,1957,80
+"Dial M for Murder","https://www.imdb.com/title/tt0046912/",8.2,105,"Crime","Film-Noir","Thriller","Drama","Alfred Hitchcock",130147,1954,100
+"The Philadelphia Story","https://www.imdb.com/title/tt0032904/",8,112,"Comedy","Romance","Comedy","Drama","George Cukor",55444,1940,70
+"To Catch a Thief","https://www.imdb.com/title/tt0048728/",7.5,106,"Mystery","Romance","Thriller","Comedy","Alfred Hitchcock",52507,1955,80
+"Psycho","https://www.imdb.com/title/tt0054215/",8.5,109,"Horror","Mystery","Thriller","Comedy","Alfred Hitchcock",494863,1960,100
+"Rebecca","https://www.imdb.com/title/tt0032976/",8.1,130,"Drama","Mystery","Romance","Thriller","Alfred Hitchcock",103766,1940,80
+"Agatha Christie's Poirot: Murder on the Orient Express","https://www.imdb.com/title/tt1554113/",7.9,89,"Crime","Drama","Mystery","Thriller","Philip Martin",2937,2010,50
+"Sunset Blvd.","https://www.imdb.com/title/tt0043014/",8.5,110,"Drama","Film-Noir","Drama","Drama","Billy Wilder",166029,1950,80
+"12 Angry Men","https://www.imdb.com/title/tt0050083/",8.9,96,"Crime","Drama","Animation","Comedy","Sidney Lumet",541082,1957,90
+"Witness for the Prosecution","https://www.imdb.com/title/tt0051201/",8.4,116,"Crime","Drama","Mystery","Thriller","Billy Wilder",82264,1957,100
+"North by Northwest","https://www.imdb.com/title/tt0053125/",8.3,136,"Adventure","Mystery","Thriller","Drama","Alfred Hitchcock",254180,1959,90
+"Breaking Bad","https://www.imdb.com/title/tt0903747/",9.5,49,"Crime","Drama","Thriller","Drama","Kiana",1082508,2008,100
+"Game of Thrones","https://www.imdb.com/title/tt0944947/",9.5,57,"Action","Adventure","Drama","Fantasy","Kiana",1314804,2011,100
+"Asemane Zarde Kam Omgh (Ehtemale Makoos)","https://www.imdb.com/title/tt3399154/",6.2,90,"Drama","Mystery","Thriller","Comedy","Bahram Tavakoli",479,2013,70
+"Big Fish","https://www.imdb.com/title/tt0319061/",8,125,"Adventure","Drama","Fantasy","Romance","Tim Burton",377140,2003,90
+"The Wedlock","https://www.imdb.com/title/tt3540420/",6.3,82,"Drama","Biography","Drama","Comedy","Rouhollah Hejazi",554,2014,60
+"Grey's Anatomy","https://www.imdb.com/title/tt0413573/",7.6,41,"Drama","Romance","Animation","Comedy","Kiana",191296,2005,90
+"The Kid","https://www.imdb.com/title/tt0012349/",8.3,68,"Comedy","Drama","Family","Comedy","Charles Chaplin",87123,1921,70
+"Scandal","https://www.imdb.com/title/tt1837576/",7.8,43,"Drama","Thriller","Animation","Comedy","Kiana",60676,2012,90
+"It's a Wonderful Life","https://www.imdb.com/title/tt0038650/",8.6,130,"Drama","Family","Fantasy","Comedy","Frank Capra",327932,1946,90
+"Agatha Christie's Marple","https://www.imdb.com/title/tt1734537/",7.8,93,"Crime","Drama","Mystery","Comedy","Kiana",3968,2004,80
+"Happy Tree Friends","https://www.imdb.com/title/tt0770762/",7,74,"Animation","Crime","Horror","Mystery","Kiana",14952,1999,80
+"Boyhood","https://www.imdb.com/title/tt1065073/",7.9,165,"Drama","Comedy","Animation","Comedy","Richard Linklater",302568,2014,70
+"Begin Again","https://www.imdb.com/title/tt1980929/",7.4,104,"Comedy","Drama","Music","Romance","John Carney",121757,2013,70
+"I Feel Sleepy","https://www.imdb.com/title/tt2670642/",5.8,90,"Comedy","Drama","Romance","Comedy","Reza Attaran",755,2012,20
+"Puss in Boots: The Three Diablos","https://www.imdb.com/title/tt2268617/",7,13,"Animation","Short","Adventure","Comedy","Raman Hui",3070,2012,70
+"Nuovo Cinema Paradiso","https://www.imdb.com/title/tt0095765/",8.5,155,"Drama","Animation","Drama","Comedy","Giuseppe Tornatore",184123,1988,100
+"Inja bedoone man","https://www.imdb.com/title/tt1874522/",8,100,"Drama","Family","Comedy","Adventure","Bahram Tavakoli",3382,2011,70
+"Hachi: A Dog's Tale","https://www.imdb.com/title/tt1028532/",8.1,93,"Drama","Family","Action","Animation","Lasse Hallström",203025,2009,70
+"The Godfather","https://www.imdb.com/title/tt0068646/",9.2,175,"Crime","Drama","Comedy","Animation","Francis Ford Coppola",1332808,1972,80
+"Agatha Christie's Marple: A Pocket Full of Rye","https://www.imdb.com/title/tt1189440/",7.4,93,"Crime","Drama","Mystery","Animation","Charlie Palmer",829,2008,80
+"Khate ghermez","https://www.imdb.com/title/tt3640950/",6.1,106,"Adventure","Drama","Family","Animation","Kiana",271,2001,60
+"Whiplash","https://www.imdb.com/title/tt2582802/",8.5,107,"Drama","Music","Comedy","Animation","Damien Chazelle",547390,2014,80
+"Birdman or (The Unexpected Virtue of Ignorance)","https://www.imdb.com/title/tt2562232/",7.7,119,"Comedy","Drama","Comedy","Crime","Alejandro G. Iñárritu",479405,2014,80
+"Room 8","https://www.imdb.com/title/tt2949338/",8,7,"Short","Drama","Fantasy","Sci-Fi","James W. Griffiths",1764,2013,80
+"Danny and the Wild Bunch","https://www.imdb.com/title/tt3696774/",7.4,5,"Animation","Short","Action","Family","Robert Rugan",70,2014,90
+"How to Get Away with Murder","https://www.imdb.com/title/tt3205802/",8.2,43,"Crime","Drama","Mystery","Thriller","Kiana",90830,2014,90
+"Death Note: Desu nôto","https://www.imdb.com/title/tt0877057/",9,24,"Animation","Crime","Drama","Fantasy","Kiana",157030,2006,70
+"A Single Life","https://www.imdb.com/title/tt3838700/",7.4,3,"Animation","Short","Comedy","Drama","Joris Oprins, Marieke Blaauw, Job Roggeveen",1161,2014,80
+"Pele akher","https://www.imdb.com/title/tt2161980/",7.4,88,"Drama","Animation","Adventure","Crime","Ali Mosaffa",1059,2012,80
+"Count Duckula","https://www.imdb.com/title/tt0088500/",7.5,22,"Animation","Comedy","Family","Horror","Kiana",2864,1988,90
+"Beyond Belief: Fact or Fiction","https://www.imdb.com/title/tt0138956/",8,60,"Mystery","Thriller","Fantasy","Horror","Kiana",3261,1997,80
+"City of Mice 2","https://www.imdb.com/title/tt3507794/",6.2,100,"Comedy","Family","Fantasy","Musical","Marzieh Boroomand",227,2014,100
+"Inside Out","https://www.imdb.com/title/tt2096673/",8.2,95,"Animation","Adventure","Comedy","Drama","Pete Docter, Ronnie Del Carmen",478806,2015,80
+"Gone Girl","https://www.imdb.com/title/tt2267998/",8.1,149,"Crime","Drama","Mystery","Thriller","David Fincher",699937,2014,70
+"Planet Earth","https://www.imdb.com/title/tt0795176/",9.4,533,"Documentary","Comedy","Action","Action","Kiana",131998,2006,100
+"Cuidado con el ángel","https://www.imdb.com/title/tt1245565/",6.4,60,"Drama","Romance","Action","Adventure","Kiana",1132,2008,70
+"He's Just Not That Into You","https://www.imdb.com/title/tt1001508/",6.4,129,"Comedy","Drama","Romance","Adventure","Ken Kwapis",143496,2009,70
+"Notre-Dame de Paris","https://www.imdb.com/title/tt0285800/",9,150,"Drama","Music","Musical","Romance","Gilles Amado",1229,1999,80
+"The Awful Truth","https://www.imdb.com/title/tt0028597/",7.9,91,"Comedy","Romance","Comedy","Comedy","Leo McCarey",14988,1937,70
+"Double Indemnity","https://www.imdb.com/title/tt0036775/",8.3,107,"Crime","Drama","Film-Noir","Mystery","Billy Wilder",117680,1944,80
+"Léon","https://www.imdb.com/title/tt0110413/",8.6,110,"Crime","Drama","Thriller","Drama","Luc Besson",850243,1994,90
+"Tangled","https://www.imdb.com/title/tt0398286/",7.8,100,"Animation","Adventure","Comedy","Family","Byron Howard, Nathan Greno",338835,2010,70
+"Ghesse-ha","https://www.imdb.com/title/tt3526482/",7.2,88,"Drama","Animation","Adventure","Comedy","Rakhshan Banietemad",955,2014,70
+"Win a Date with Tad Hamilton!","https://www.imdb.com/title/tt0335559/",5.6,95,"Comedy","Romance","Comedy","Horror","Robert Luketic",24424,2004,50
+"Dar donya ye to saat chand ast?","https://www.imdb.com/title/tt4108894/",7.2,101,"Drama","Romance","Action","Animation","Safi Yazdanian",1199,2014,90
+"Ghayegh-ha Ye Man","https://www.imdb.com/title/tt2229157/",7.6,26,"Short","Drama","Action","Adventure","Safi Yazdanian",14,2005,90
+"Chiz-haie hast keh nemidani","https://www.imdb.com/title/tt1683042/",7.3,92,"Drama","Adventure","Comedy","Adventure","Fardin Saheb-Zamani",939,2010,100
+"Grown Ups","https://www.imdb.com/title/tt1375670/",6,102,"Comedy","Comedy","Adventure","Drama","Dennis Dugan",199982,2010,40
+"Mona Lisa Smile","https://www.imdb.com/title/tt0304415/",6.5,117,"Drama","Comedy","Animation","Biography","Mike Newell",67808,2003,70
+"North & South","https://www.imdb.com/title/tt0417349/",8.7,235,"Drama","Romance","Drama","Action","Kiana",25130,2004,80
+"Strangers on a Train","https://www.imdb.com/title/tt0044079/",8,101,"Crime","Film-Noir","Thriller","Animation","Alfred Hitchcock",108758,1951,80
+"Seinfeld","https://www.imdb.com/title/tt0098904/",8.9,22,"Comedy","Comedy","Adventure","Comedy","Kiana",204248,1989,70
+"Pretty Woman","https://www.imdb.com/title/tt0100405/",7,119,"Comedy","Romance","Action","Animation","Garry Marshall",242376,1990,70
+"Rope","https://www.imdb.com/title/tt0040746/",8,80,"Crime","Drama","Mystery","Thriller","Alfred Hitchcock",108347,1948,90
+"Joy","https://www.imdb.com/title/tt2446980/",6.6,124,"Drama","Action","Comedy","Animation","David O. Russell",109320,2015,60
+"La migliore offerta","https://www.imdb.com/title/tt1924396/",7.8,131,"Crime","Drama","Mystery","Romance","Giuseppe Tornatore",87268,2013,60
+"Shahrzad","https://www.imdb.com/title/tt5332732/",8.3,60,"Drama","Romance","Horror","Animation","Kiana",3899,2015,80
+"Yousuf e Payambar","https://www.imdb.com/title/tt3084150/",7,140,"Biography","Drama","History","Romance","Kiana",1322,2008,60
+"Agatha Christie's Poirot: Death on the Nile","https://www.imdb.com/title/tt0406516/",7.9,98,"Crime","Drama","Mystery","Thriller","Andy Wilson",2199,2004,50
+"Need for Speed","https://www.imdb.com/title/tt2369135/",6.5,132,"Action","Crime","Thriller","Adventure","Scott Waugh",149139,2014,50
+"Sherlock: The Abominable Bride","https://www.imdb.com/title/tt3845232/",8.2,89,"Crime","Drama","Mystery","Action","Douglas Mackinnon",28653,2016,90
+"Someone Like You...","https://www.imdb.com/title/tt0244970/",6.1,97,"Comedy","Romance","Horror","Drama","Tony Goldwyn",21521,2001,70
+"Meet My Valentine","https://www.imdb.com/title/tt4255274/",6.4,89,"Drama","Romance","Fantasy","Adventure","Brian Herzlinger",792,2015,40
+"The Revenant","https://www.imdb.com/title/tt1663202/",8,156,"Adventure","Drama","History","Thriller","Alejandro G. Iñárritu",557829,2015,60
+"Seeking a Friend for the End of the World","https://www.imdb.com/title/tt1307068/",6.7,101,"Adventure","Comedy","Drama","Romance","Lorene Scafaria",97844,2012,60
+"Mamma Mia!","https://www.imdb.com/title/tt0795421/",6.4,108,"Comedy","Musical","Romance","Action","Phyllida Lloyd",164171,2008,70
+"The Present","https://www.imdb.com/title/tt3682556/",7.6,4,"Animation","Short","Comedy","Family","Jacob Frey",1345,2014,80
+"Riley's First Date?","https://www.imdb.com/title/tt4941804/",7.5,5,"Animation","Short","Comedy","Family","Josh Cooley",4118,2015,90
+"Mahi va gorbeh","https://www.imdb.com/title/tt3257072/",7.5,134,"Drama","Horror","Mystery","Animation","Shahram Mokri",1651,2013,60
+"A Walk to Remember","https://www.imdb.com/title/tt0281358/",7.4,101,"Drama","Romance","Comedy","Biography","Adam Shankman",179750,2002,80
+"Funny Face","https://www.imdb.com/title/tt0050419/",7.1,103,"Comedy","Musical","Romance","Adventure","Stanley Donen",22041,1957,70
+"Kill Bill: Vol. 1","https://www.imdb.com/title/tt0266697/",8.1,111,"Action","Crime","Thriller","Adventure","Quentin Tarantino",844814,2003,70
+"Me Before You","https://www.imdb.com/title/tt2674426/",7.4,106,"Drama","Romance","Drama","Adventure","Thea Sharrock",144015,2016,80
+"Kill Bill: Vol. 2","https://www.imdb.com/title/tt0378194/",8,137,"Action","Crime","Thriller","Drama","Quentin Tarantino",575372,2004,90
+"Kill Bill: The Whole Bloody Affair","https://www.imdb.com/title/tt6019206/",8.8,247,"Action","Crime","Thriller","Animation","Quentin Tarantino",2137,2011,80
+"Finding Dory","https://www.imdb.com/title/tt2277860/",7.3,97,"Animation","Adventure","Comedy","Family","Andrew Stanton, Angus MacLane",190024,2016,90
+"Piper","https://www.imdb.com/title/tt5613056/",8.4,6,"Animation","Short","Family","Crime","Alan Barillaro",19447,2016,70
+"Le Petit Prince","https://www.imdb.com/title/tt1754656/",7.8,108,"Animation","Adventure","Drama","Family","Mark Osborne",45105,2015,60
+"Black Mirror","https://www.imdb.com/title/tt2085059/",8.9,60,"Drama","Sci-Fi","Thriller","Biography","Kiana",222431,2011,70
+"Sen to Chihiro no kamikakushi","https://www.imdb.com/title/tt0245429/",8.6,125,"Animation","Adventure","Family","Fantasy","Kirk Wise, Hayao Miyazaki",507098,2001,80
+"Tonari no Totoro","https://www.imdb.com/title/tt0096283/",8.2,86,"Animation","Family","Fantasy","Drama","Hayao Miyazaki",216017,1988,90
+"Zamani barayé masti asbha","https://www.imdb.com/title/tt0259072/",7.7,80,"Drama","War","Adventure","Action","Bahman Ghobadi",6031,2000,70
+"Jimmy Vestvood: Amerikan Hero","https://www.imdb.com/title/tt3135556/",5.3,84,"Comedy","Animation","Comedy","Action","Jonathan Kesselman",1944,2016,10
+"Mr. Nobody","https://www.imdb.com/title/tt0485947/",7.9,141,"Drama","Fantasy","Romance","Sci-Fi","Jaco Van Dormael",182780,2009,50
+"Der Untergang","https://www.imdb.com/title/tt0363163/",8.2,156,"Biography","Drama","History","War","Oliver Hirschbiegel",286974,2004,80
+"Sherlock: The Six Thatchers","https://www.imdb.com/title/tt3538760/",7.7,88,"Crime","Drama","Mystery","Drama","Rachel Talalay",18632,2017,90
+"The Usual Suspects","https://www.imdb.com/title/tt0114814/",8.6,106,"Crime","Mystery","Thriller","Drama","Bryan Singer",849057,1995,90
+"BoJack Horseman","https://www.imdb.com/title/tt3398228/",8.5,25,"Animation","Comedy","Drama","Comedy","Kiana",51058,2014,100
+"Sherlock: The Lying Detective","https://www.imdb.com/title/tt3845888/",9.3,89,"Crime","Drama","Mystery","Mystery","Nick Hurran",20978,2017,90
+"How to Lose a Guy in 10 Days","https://www.imdb.com/title/tt0251127/",6.4,116,"Comedy","Romance","Comedy","Comedy","Donald Petrie",178749,2003,70
+"Sherlock: The Final Problem","https://www.imdb.com/title/tt3845892/",8.3,89,"Crime","Drama","Mystery","Adventure","Benjamin Caron",19987,2017,90
+"The Magic School Bus","https://www.imdb.com/title/tt0108847/",8,30,"Animation","Adventure","Comedy","Family","Kiana",6418,1994,70
+"La La Land","https://www.imdb.com/title/tt3783958/",8.1,128,"Comedy","Drama","Music","Musical","Damien Chazelle",369810,2016,90
+"Forushande","https://www.imdb.com/title/tt5186714/",7.8,124,"Drama","Thriller","Comedy","Drama","Asghar Farhadi",34359,2016,90
+"Jane the Virgin","https://www.imdb.com/title/tt3566726/",7.8,60,"Comedy","Animation","Comedy","Drama","Kiana",23253,2014,90
+"13 Reasons Why","https://www.imdb.com/title/tt1837492/",8.3,60,"Drama","Mystery","Comedy","Drama","Kiana",162676,2017,80
+"Grease Live!","https://www.imdb.com/title/tt4366830/",7.4,140,"Musical","Romance","Drama","Animation","Alex Rudzinski, Thomas Kail",7485,2016,50
+"How I Met Your Mother","https://www.imdb.com/title/tt0460649/",8.4,22,"Comedy","Romance","Drama","Animation","Kiana",507828,2005,90
+"A House on 41st Street","https://www.imdb.com/title/tt6219484/",5.7,86,"Crime","Drama","Comedy","Animation","Hamid Reza Ghorbani",170,2016,60
+"Don't Hang Up","https://www.imdb.com/title/tt3610746/",5.6,83,"Horror","Thriller","Drama","Animation","Alexis Wajsbrot, Damien Macé",8857,2016,60
+"A Series of Unfortunate Events","https://www.imdb.com/title/tt4834206/",7.9,50,"Adventure","Comedy","Drama","Family","Kiana",36024,2017,80
+"Curse of Chucky","https://www.imdb.com/title/tt2230358/",5.6,97,"Horror","Thriller","Drama","Short","Don Mancini",28150,2013,40
+"Tom and Jerry: Willy Wonka and the Chocolate Factory","https://www.imdb.com/title/tt6803390/",4.2,79,"Animation","Adventure","Comedy","Family","Spike Brandt",450,2017,60
+"Big Little Lies","https://www.imdb.com/title/tt3920596/",8.6,60,"Crime","Drama","Mystery","Animation","Kiana",75951,2017,90
+"Lion","https://www.imdb.com/title/tt3741834/",8.1,118,"Biography","Drama","Adventure","Animation","Garth Davis",158433,2016,80
+"Chance","https://www.imdb.com/title/tt5620076/",7.7,60,"Drama","Mystery","Thriller","Animation","Kiana",7141,2016,60
+"The Night Manager","https://www.imdb.com/title/tt1399664/",8.2,358,"Crime","Drama","Mystery","Thriller","Kiana",52691,2016,90
+"Rick and Morty","https://www.imdb.com/title/tt2861424/",9.3,23,"Animation","Adventure","Comedy","Sci-Fi","Kiana",208924,2013,100
+"Garfield","https://www.imdb.com/title/tt0356634/",5,80,"Animation","Comedy","Family","Fantasy","Peter Hewitt",67515,2004,80
+"New Girl","https://www.imdb.com/title/tt1826940/",7.7,22,"Comedy","Drama","Game-Show","Drama","Kiana",160207,2011,70
+"Stranger Things","https://www.imdb.com/title/tt4574334/",8.9,51,"Drama","Fantasy","Horror","Mystery","Kiana",477963,2016,100
+"Pigeon: Impossible","https://www.imdb.com/title/tt1423419/",6.7,6,"Animation","Short","Action","Comedy","Lucas Martell",593,2009,60
+"And Then There Were None","https://www.imdb.com/title/tt3581932/",8,58,"Crime","Drama","Mystery","Thriller","Kiana",20961,2015,90
+"Mindhunter","https://www.imdb.com/title/tt5290382/",8.6,60,"Crime","Drama","Thriller","Comedy","Kiana",83718,2017,90
+"A Christmas Prince","https://www.imdb.com/title/tt7608418/",5.6,92,"Comedy","Romance","Comedy","Crime","Alex Zamm",6953,2017,60
+"Sing","https://www.imdb.com/title/tt3470600/",7.1,108,"Animation","Comedy","Family","Music","Garth Jennings, Christophe Lourdelet",97309,2016,80
+"Cosmos: A Spacetime Odyssey","https://www.imdb.com/title/tt2395695/",9.3,557,"Documentary","Drama","Comedy","Drama","Kiana",83912,2014,100
+"The End of the F***ing World","https://www.imdb.com/title/tt6257970/",8.2,25,"Comedy","Drama","Drama","Drama","Kiana",59952,2017,80
+"Paranormal Activity","https://www.imdb.com/title/tt1179904/",6.3,86,"Horror","Mystery","Thriller","Comedy","Oren Peli",200538,2007,60
+"The Shape of Water","https://www.imdb.com/title/tt5580390/",7.5,123,"Adventure","Drama","Fantasy","Horror","Guillermo del Toro",205447,2017,70
+"Saat Panj é asr","https://www.imdb.com/title/tt6217564/",4.7,90,"Comedy","Drama","Comedy","Animation","Mehran Modiri",427,2017,50
+"Hotaru no haka","https://www.imdb.com/title/tt0095327/",8.5,89,"Animation","Drama","War","Drama","Isao Takahata",175178,1988,90
+"Drinking Buddies","https://www.imdb.com/title/tt2265398/",6.1,90,"Comedy","Drama","Romance","Comedy","Joe Swanberg",51273,2013,80
+"Planet Earth II","https://www.imdb.com/title/tt5491994/",9.6,360,"Documentary","Drama","Drama","Drama","Kiana",50580,2016,100
+"The Blue Planet","https://www.imdb.com/title/tt0296310/",9,50,"Documentary","Animation","Comedy","Drama","Kiana",21169,2001,100
+"Two Night Stand","https://www.imdb.com/title/tt2140619/",6.4,86,"Comedy","Romance","Drama","Family","Max Nichols",55782,2014,50
+"Love Actually","https://www.imdb.com/title/tt0314331/",7.6,135,"Comedy","Drama","Romance","Crime","Richard Curtis",360881,2003,80
+"The Longest Week","https://www.imdb.com/title/tt2064968/",5.4,86,"Comedy","Drama","Romance","Crime","Peter Glanz",9789,2014,50
